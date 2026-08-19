@@ -33,5 +33,5 @@ ff02::3 ip6-allhosts
 # Title: Custom hosts for private network
 
 
-192.168.20.220:2902 tiktok.com
-192.168.20.220:2902 imgur.com
+0.0.0.0 tiktok.com
+0.0.0.0 imgur.com
